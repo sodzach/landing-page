@@ -1,0 +1,15 @@
+html {
+  text-align: center;
+}
+h1 {
+  color: blue;
+}
+
+nav {
+  display: grid;
+}
+
+body {
+  display: flex;
+  gap: 10px;
+}
